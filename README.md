@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hyejungg/hyejungg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hyejung Kim :sunglasses:
+<div>
+  <img src="http://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&link= " />
+  <img src="http://img.shields.io/badge/-Naver-white?style=flat&logo=naver&link= " />
+  <img src="http://img.shields.io/badge/-Instagram-blueviolet?style=flat&logo=instagram&link= " />
+  <img src="http://img.shields.io/badge/-Facebook-blueviolet?style=flat&logo=facebook&link= " />
+  <a href="https://www.notion.so/hyejung/0c6eded704f24efbba1cd118b26c49bb"><img src="http://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://www.notion.so/hyejung/0c6eded704f24efbba1cd118b26c49bb" /> </a>
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejungg&show_icons=true&theme=cobalt&hide=stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejungg&layout=compact)](https://github.com/hyejungg/)
