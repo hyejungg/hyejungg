@@ -28,7 +28,7 @@ http://img.shields.io/badge/-뱃지이름-색상코드(#제외)?style=flat(스�
 
 ### 2020
 
-- Front-end Developer : [한이음] 온라인 비대면  플랫폼 'E-oom' 웹 어플리케이션 제작
+- Front-end Developer : [한이음] 온라인 교육 플랫폼 'E-oom' 웹 어플리케이션 제작
 
 ### 2019
 
