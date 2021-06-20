@@ -1,7 +1,8 @@
 ## Hyejung Kim : Service Developer :sunglasses:
 
 [![Gmail Bedge](http://img.shields.io/badge/Gmail-ea4335?style=flat&logo=Gmail&logoColor=white)](mailto:20180977@sungshin.ac.kr) [![Naver Bedge](http://img.shields.io/badge/-Naver-03c75a?style=flat&logo=naver&logoColor=white)](mailto:kimhyejung12@naver.com) [![Instagram Bedge](http://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/hhhj2__) [![Notion Bedge](http://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/hyejung/0c6eded704f24efbba1cd118b26c49bb)  
-기술로 세상을 변화시키는 개발자가 되기 위해 나만의 속도로 공부하고, 성장하는 개발자 김혜정입니다.
+<!-- 기술로 세상을 변화시키는 개발자가 되기 위해 나만의 속도로 공부하고, 성장하는 개발자 김혜정입니다. -->
+새로운 미래를 만들기 위해 나만의 속도로 공부하고, 성장하는 개발자 김혜정입니다.
 <!-- 내 이미지 추가 -->
 
 ## :sparkles: About Me
