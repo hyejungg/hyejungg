@@ -12,7 +12,7 @@
 
 ## :books: Skills
 
-### Language & Platfarm
+### Language
 
 <!--
 http://img.shields.io/badge/-뱃지이름-색상코드(#제외)?style=flat(스타일)&logo=로고아이콘이름&link=링크
