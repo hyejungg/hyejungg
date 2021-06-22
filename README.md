@@ -12,29 +12,26 @@
 
 ## :books: Skills
 
-### Language
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
 
-<!--
-http://img.shields.io/badge/-뱃지이름-색상코드(#제외)?style=flat(스타일)&logo=로고아이콘이름&link=링크
--->
-
-### Tools
+### Studying
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/nginx.js-009639?style=flat-square&logo=nginx&logoColor=white"/>  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>  
 
 ## :mag: Tech Experience
 
 ### 2021
 
 <!-- - 정보처리기사 자격증 취득(2021.07) -->
-- Android Developer : 위시리스트 통합 관리 어플리케이션 'Wishboard' 제작
+- Android Developer : 위시리스트 통합 관리 어플리케이션 ['Wishboard'](https://github.com/hyejungg/WishBoard) 제작 //개발 진행 중
 
 ### 2020
 
-- Front-end Developer : [한이음] 온라인 교육 플랫폼 'E-oom' 웹 어플리케이션 제작
+- Front-end Developer : [한이음] 온라인 교육 플랫폼 ['E-oom'](https://github.com/hyejungg/E-oom) 웹 어플리케이션 제작
 
 ### 2019
 
 - 성신여자대학교 교내 대회 '소프트웨어 경진대회' : '냉장GO' 동상
-- Android Developer : 냉장고 식자재 관리 어플리케이션 '냉장GO' 제작
+- Android Developer : 냉장고 식자재 관리 어플리케이션 ['냉장GO'](https://github.com/hyejungg/RefrigeratorGo) 제작
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejungg&show_icons=true&theme=dracula&hide=stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejungg&layout=compact&theme=dracula&hide=hack,ejs)](https://github.com/hyejungg)
