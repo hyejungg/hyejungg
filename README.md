@@ -2,9 +2,6 @@
 
 [![Gmail Bedge](http://img.shields.io/badge/Gmail-ea4335?style=flat&logo=Gmail&logoColor=white)](mailto:20180977@sungshin.ac.kr) [![Naver Bedge](http://img.shields.io/badge/-Naver-03c75a?style=flat&logo=naver&logoColor=white)](mailto:kimhyejung12@naver.com) [![Instagram Bedge](http://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/hhhj2__) [![Notion Bedge](http://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/hyejung/0c6eded704f24efbba1cd118b26c49bb)  
 **함께 일하고 싶은 개발자**가 되기 위해 작은 습관부터 천천히 나만의 속도로 공부하고, 노력하는 개발자 김혜정입니다.
-<!-- **함께 일하고 싶은 개발자**라는 목표 아래, 목표를 이룰 수 있도록 작은 습관부터 천천히 나만의 속도로 노력하는 김혜정입니다. -->
-<!-- 내 이미지 추가 -->
-
 ## :sparkles: About Me
 
 - 성신여자대학교 컴퓨터공학과 & 교직이수 (2018.03~)
