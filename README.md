@@ -19,7 +19,7 @@
 ### 2021
 
 <!-- - 정보처리기사 자격증 취득(2021.07) -->
-- Full stack development : 위시리스트 통합 관리 어플리케이션 ['Wishboard'](https://github.com/hyejungg/WishBoard) 제작 //개발 진행 중
+- Full stack development : 안드로이드 위시리스트 통합 관리 어플리케이션 ['Wishboard'](https://github.com/hyejungg/WishBoard) 제작 //개발 진행 중
 
 ### 2020
 
