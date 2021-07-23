@@ -19,7 +19,7 @@
 ### 2021
 
 <!-- - 정보처리기사 자격증 취득(2021.07) -->
-- Android Developer : 위시리스트 통합 관리 어플리케이션 ['Wishboard'](https://github.com/hyejungg/WishBoard) 제작 //개발 진행 중
+- Full stack development : 위시리스트 통합 관리 어플리케이션 ['Wishboard'](https://github.com/hyejungg/WishBoard) 제작 //개발 진행 중
 
 ### 2020
 
@@ -30,5 +30,5 @@
 - 성신여자대학교 교내 대회 '소프트웨어 경진대회' : '냉장GO' 동상
 - Android Developer : 냉장고 식자재 관리 어플리케이션 ['냉장GO'](https://github.com/hyejungg/RefrigeratorGo) 제작
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejungg&show_icons=true&theme=dracula&hide=stars)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejungg&layout=compact&theme=dracula&hide=hack,ejs)](https://github.com/hyejungg)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejungg&show_icons=true&theme=dracula&hide=stars)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejungg&layout=compact&theme=dracula&hide=hack,ejs)](https://github.com/hyejungg) -->
