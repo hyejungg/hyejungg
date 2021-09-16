@@ -20,6 +20,7 @@
 
 - 정보처리기사 자격증 취득(2021.07)
 - Full stack development : 안드로이드 위시리스트 통합 관리 어플리케이션 ['Wishboard'](https://github.com/hyejungg/WishBoard) 제작 //개발 진행 중
+- Back-end development : 복지를 위한 복지서비스 모바일 어플리케이션 ['Bokzi'](https://github.com/bokzip/bokzip-backend) 제작 //개발 진행 중
 
 ### 2020
 
