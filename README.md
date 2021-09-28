@@ -21,6 +21,7 @@
 - 정보처리기사 자격증 취득(2021.07)
 - Full stack development : 안드로이드 위시리스트 통합 관리 어플리케이션 ['Wishboard'](https://github.com/hyejungg/WishBoard) 제작 //개발 진행 중
 - Back-end development : 복지를 위한 복지서비스 모바일 어플리케이션 ['Bokzip'](https://github.com/bokzip/bokzip-backend) 제작 //개발 진행 중
+- 성신여자대학교 교내 대회 '소프트웨어 경진대회' : '안심화장실지도' 장려상
 
 ### 2020
 
