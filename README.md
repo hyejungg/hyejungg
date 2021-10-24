@@ -1,4 +1,4 @@
-## Hyejung Kim : Service Developer :sunglasses:
+## Hyejung Kim : Backend Developer :sunglasses:
 
 [![Gmail Bedge](http://img.shields.io/badge/Gmail-ea4335?style=flat&logo=Gmail&logoColor=white)](mailto:20180977@sungshin.ac.kr) [![Naver Bedge](http://img.shields.io/badge/-Naver-03c75a?style=flat&logo=naver&logoColor=white)](mailto:kimhyejung12@naver.com) [![Instagram Bedge](http://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/hhhj2__) 
 <!-- **함께 일하고 싶은 개발자**가 되기 위해 작은 습관부터 공부하고, 노력하는 개발자 김혜정입니다. -->
@@ -7,12 +7,15 @@
 - 성신여자대학교 컴퓨터공학과 & 교직이수 (2018.03~)
 - 한국대학생멘토연합 17기 ~ 21기 동부지부 운영진 및 정회원으로 활동
 
+
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=150&text=HYEJUNG%KIM) -->
+
+<!-- 
 ## :books: Skills
-
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
-
-### Studying
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/nginx.js-009639?style=flat-square&logo=nginx&logoColor=white"/>  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>  
+ -->
+<!-- ### Studying
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/nginx.js-009639?style=flat-square&logo=nginx&logoColor=white"/>  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>   -->
 
 ## :mag: Tech Experience
 
