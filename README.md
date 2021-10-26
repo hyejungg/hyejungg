@@ -5,7 +5,7 @@
 
 - 성신여자대학교 컴퓨터공학과 & 교직이수 (2018.03~)
 - 한국대학생멘토연합 17기 ~ 21기 동부지부 운영진 및 정회원으로 활동
-
+  
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=HYEJUNG%20KIM&fontSize=80) -->
 <!-- &desc=Backend%20Developer&descAlignY=70)-->
 
