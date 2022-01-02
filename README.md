@@ -35,7 +35,7 @@ _I'm learning computer science at Sungshin Women's University._
 
 - 성신여자대학교 교내 대회 '소프트웨어 경진대회' : '냉장GO' 동상
 - Android Developer : 냉장고 식자재 관리 어플리케이션 ['냉장GO'](https://github.com/hyejungg/RefrigeratorGo) 제작
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejungg&layout=compact&theme=dracula&hide=hack,ejs)](https://github.com/hyejungg) --> -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejungg&layout=compact&theme=dracula&hide=hack,ejs)](https://github.com/hyejungg) --> 
 
 #### 📮 Today           
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyejungg&count_bg=%237FC8F7&title_bg=%23555555&icon=&icon_color=%23E56C6C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
