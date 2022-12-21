@@ -1,45 +1,82 @@
-## Hyejung Kim :sunglasses:
-[![Gmail Bedge](http://img.shields.io/badge/Gmail-ea4335?style=flat&logo=Gmail&logoColor=white)](mailto:20180977@sungshin.ac.kr) [![Naver Bedge](http://img.shields.io/badge/-Naver-03c75a?style=flat&logo=naver&logoColor=white)](mailto:kimhyejung12@naver.com) [![Instagram Bedge](http://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/hhhj2__) 
-<!-- **함께 일하고 싶은 개발자**가 되기 위해 작은 습관부터 공부하고, 노력하는 개발자 김혜정입니다. -->
-<!-- ##  About Me -->
-**_I want to be a backend developer. :sparkles:_**
+<center>
 
-_I'm learning computer science at Sungshin Women's University._
+![header](https://capsule-render.vercel.app/api?text=HyeJung&nbsp;&nbsp;&nbsp;&nbsp;Kim&fontSize=100&type=soft&color=FFFFFF&fontColor=000000&animation=fadeIn&fontAlignY=50&desc=I%20want%20to%20be%20a%20backend%20developer.&descAlignY=95&descAlign=72)
+</center>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejungg&show_icons=true&theme=light&hide=stars)
-  
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=HYEJUNG%20KIM&fontSize=80) -->
-<!-- &desc=Backend%20Developer&descAlignY=70)-->
-  
-## :books: Interesting 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-2d79c7?style=flat-square&logo=TypeScript&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> -->
+## **Education**
+**2018 Mar**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sungshin Women's University,&nbsp;&nbsp; Computer Engineering & Curriculum for Teaching Profession
 
-<!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> -->
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>  
+<br>
 
- <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-sqaure&logo=Github Actions&logoColor=white"> <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-sqaure&logo=PM2&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
+## **Projects**
+**2022 Sep**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend development &nbsp;|&nbsp; [Hous- Release](https://github.com/Hous-Release/hous-server),&nbsp;&nbsp; 룸메이트와 함께하는 슬기로운 한집 생활
 
-<!-- ## :mag: Tech Experience
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;앱 다운로드 바로가기 [AOS](), [iOS]() &nbsp;|&nbsp; *v1.0.1*
 
-### 2
+**2022 Jul**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend development &nbsp;|&nbsp; [Hous-](https://github.com/TeamHous/Hous-Server),&nbsp;&nbsp; 룸메이트와 함께하는 슬기로운 한집 생활 (30th SOPT Appjam)
 
-### 2021
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THE SOPT 30th App Jam 대상 
 
-- 정보처리기사 자격증 취득(2021.07)
-- Back-end development : [위시리스트 통합 관리 어플리케이션](https://play.google.com/store/apps/details?id=com.hyeeyoung.wishboard) ['Wishboard'](https://github.com/hyejungg/WishBoard) 제작 //개발 진행 중
-- Back-end development : 복지를 위한 복지서비스 모바일 어플리케이션 ['Bokzip'](https://github.com/bokzip/bokzip-backend) 제작 
-- 성신여자대학교 교내 대회 '소프트웨어 경진대회' : ['안심화장실지도'](https://github.com/hyejungg/2021ssw) 장려상
+**2021 May**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend development &nbsp;|&nbsp;  [WISH BOARD](https://github.com/hyeeyoung/wishboard-push-server),&nbsp;&nbsp; 위시리스트 통합관리 어플리케이션
 
-### 2020
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;앱 다운로드 바로가기 [AOS](https://play.google.com/store/apps/details?id=com.hyeeyoung.wishboard&pli=1), [iOS](https://apps.apple.com/kr/app/%EC%9C%84%EC%8B%9C%EB%B3%B4%EB%93%9C-wish-board/id6443808936) &nbsp;|&nbsp; *v1.2.1*
 
-- Front-end Developer : [한이음] 온라인 교육 플랫폼 ['E-oom'](https://github.com/hyejungg/E-oom) 웹 어플리케이션 제작
+**2020 Jul**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontend development &nbsp;|&nbsp; ['E-oom'](https://github.com/hyejungg/E-oom), 온라인 교육 플랫폼 제작
 
-### 2019
+**2019 Oct**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Android development &nbsp;|&nbsp; [냉장GO](https://github.com/youngjinc/NaengjanGo),&nbsp;&nbsp; 바코드 인식을 통한 냉장고 식자재 관리 어플리케이션
 
-- 성신여자대학교 교내 대회 '소프트웨어 경진대회' : '냉장GO' 동상
-- Android Developer : 냉장고 식자재 관리 어플리케이션 ['냉장GO'](https://github.com/hyejungg/RefrigeratorGo) 제작
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejungg&layout=compact&theme=dracula&hide=hack,ejs)](https://github.com/hyejungg) --> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;성신여자대학교 소프트웨어 경진대회 동상
+
+<br>
+
+## **Experience**
+
+**2022 May**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sopt 30th Server Part &nbsp;|&nbsp; 6 Month
+
+**2021 Dec**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AhnLab,&nbsp;&nbsp; Research Innovation Team Intern &nbsp;|&nbsp; 6 Month
+
+
+<br>
+
+
+## **Skills**
+<img src="https://img.shields.io/badge/Java-FFB6B9?style=flat-square&logo=Java&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-FFB6B9?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-FFB6B9?style=flat-square&logo=TypeScript&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/C++-FFB6B9?style=flat-square&logo=C%2B%2B&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/HTML5-FFB6B9?style=flat-square&logo=HTML5&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-FFB6B9?style=flat-square&logo=CSS3&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/php-FFB6B9?style=flat-square&logo=php&logoColor=black"/>&nbsp;
+<br>
+<img src="https://img.shields.io/badge/Spring Boot-FFB6B9?style=flat-square&logo=Spring Boot&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Spring MVC-FFB6B9?style=flat-square&logo=Spring&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Node.js-FFB6B9?style=flat-square&logo=Node.js&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Express-FFB6B9?style=flat-square&logo=express&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/MySQL-FFB6B9?style=flat-square&logo=MySQL&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/AWS-FFB6B9?style=flat-square&logo=amazon-aws&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Docker-FFB6B9?style=flat-square&logo=Docker&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/GitHub Actions-FFB6B9?style=flat-square&logo=GitHub Actions&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/PM2-FFB6B9?style=flat-square&logo=PM2&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Webpack-FFB6B9?style=flat-square&logo=Webpack&logoColor=black"/>&nbsp;
+
+<br>
+
+## **Tools**
+<img src="https://img.shields.io/badge/Git-8AC6D1?style=flat-square&logo=git&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/GitKraken-8AC6D1?style=flat-square&logo=gitkraken&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Slack-8AC6D1?style=flat-square&logo=slack&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Notion-8AC6D1?style=flat-square&logo=notion&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Figma-8AC6D1?style=flat-square&logo=figma&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Photoshop-8AC6D1?style=flat-square&logo=adobephotoshop&logoColor=black"/>&nbsp;
+</p>
+
+<br>
+
+## **Contact Me**
+_I want to be a backend developer. :sparkles:_
+[<img src="https://img.shields.io/badge/Naver-BBDED6?style=flat-square&logo=naver&logoColor=black"/>](mailto:kimhyejung12@naver.com)&nbsp;
+[<img src="https://img.shields.io/badge/Instagram-BBDED6?style=flat-square&logo=Instagram&logoColor=black"/>](https://www.instagram.com/hhhj2__)&nbsp;
+
 <!-- 
 #### 📮 Today           
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyejungg&count_bg=%237FC8F7&title_bg=%23555555&icon=&icon_color=%23E56C6C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
