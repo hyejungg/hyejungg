@@ -73,7 +73,6 @@
 <br>
 
 ## **Contact Me**
-_I want to be a backend developer. :sparkles:_
 [<img src="https://img.shields.io/badge/Naver-BBDED6?style=flat-square&logo=naver&logoColor=black"/>](mailto:kimhyejung12@naver.com)&nbsp;
 [<img src="https://img.shields.io/badge/Instagram-BBDED6?style=flat-square&logo=Instagram&logoColor=black"/>](https://www.instagram.com/hhhj2__)&nbsp;
 
