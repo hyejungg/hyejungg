@@ -11,7 +11,7 @@
 ## **Projects**
 **2022 Sep**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend development &nbsp;|&nbsp; [Hous- Release](https://github.com/Hous-Release/hous-server),&nbsp;&nbsp; 룸메이트와 함께하는 슬기로운 한집 생활
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;앱 다운로드 바로가기 [AOS](https://play.google.com/store/apps/details?id=hous.release.android), [iOS](https://apps.apple.com/kr/app/hous-/id1659976144) &nbsp;|&nbsp; *v1.0.1*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;앱 다운로드 바로가기 [AOS](https://play.google.com/store/apps/details?id=hous.release.android), [iOS](https://apps.apple.com/kr/app/hous-/id1659976144) &nbsp;|&nbsp; *v1.0.4*
 
 **2022 Jul**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend development &nbsp;|&nbsp; [Hous-](https://github.com/TeamHous/Hous-Server),&nbsp;&nbsp; 룸메이트와 함께하는 슬기로운 한집 생활 (30th SOPT Appjam)
 
