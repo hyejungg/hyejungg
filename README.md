@@ -11,7 +11,7 @@
 ## **Projects**
 **2022 Sep**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend development &nbsp;|&nbsp; [Hous- Release](https://github.com/Hous-Release/hous-server),&nbsp;&nbsp; 룸메이트와 함께하는 슬기로운 한집 생활
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;앱 다운로드 바로가기 [AOS](https://play.google.com/store/apps/details?id=hous.release.android), [iOS](https://apps.apple.com/kr/app/hous-/id1659976144) &nbsp;|&nbsp; *v1.0.4*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;앱 다운로드 바로가기 [AOS](https://play.google.com/store/apps/details?id=hous.release.android), [iOS](https://apps.apple.com/kr/app/hous-/id1659976144) &nbsp;|&nbsp; *v1.0.5*
 
 **2022 Jul**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend development &nbsp;|&nbsp; [Hous-](https://github.com/TeamHous/Hous-Server),&nbsp;&nbsp; 룸메이트와 함께하는 슬기로운 한집 생활 (30th SOPT Appjam)
 
@@ -75,7 +75,5 @@
 ## **Contact Me**
 [<img src="https://img.shields.io/badge/Naver-BBDED6?style=flat-square&logo=naver&logoColor=black"/>](mailto:kimhyejung12@naver.com)&nbsp;
 [<img src="https://img.shields.io/badge/Instagram-BBDED6?style=flat-square&logo=Instagram&logoColor=black"/>](https://www.instagram.com/hhhj2__)&nbsp;
-
-<!-- 
-#### 📮 Today           
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyejungg&count_bg=%237FC8F7&title_bg=%23555555&icon=&icon_color=%23E56C6C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+   
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyejungg&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
