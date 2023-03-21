@@ -40,7 +40,7 @@
 
 
 ## **Skills**
-<img src="https://img.shields.io/badge/Java-FFB6B9?style=flat-square&logo=Java&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Java-FFB6B9?style=flat-square&logo=java&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-FFB6B9?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-FFB6B9?style=flat-square&logo=TypeScript&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/C++-FFB6B9?style=flat-square&logo=C%2B%2B&logoColor=black"/>&nbsp;
@@ -53,11 +53,13 @@
 <img src="https://img.shields.io/badge/Node.js-FFB6B9?style=flat-square&logo=Node.js&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Express-FFB6B9?style=flat-square&logo=express&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/MySQL-FFB6B9?style=flat-square&logo=MySQL&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Redis-FFB6B9?style=flat-square&logo=redis&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/AWS-FFB6B9?style=flat-square&logo=amazon-aws&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Docker-FFB6B9?style=flat-square&logo=Docker&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/GitHub Actions-FFB6B9?style=flat-square&logo=GitHub Actions&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/PM2-FFB6B9?style=flat-square&logo=PM2&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Webpack-FFB6B9?style=flat-square&logo=Webpack&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Vue.js-FFB6B9?style=flat-square&logo=Vue.js&logoColor=black"/>&nbsp;
 
 <br>
 
@@ -74,6 +76,7 @@
 
 ## **Contact Me**
 [<img src="https://img.shields.io/badge/Naver-BBDED6?style=flat-square&logo=naver&logoColor=black"/>](mailto:kimhyejung12@naver.com)&nbsp;
-[<img src="https://img.shields.io/badge/Instagram-BBDED6?style=flat-square&logo=Instagram&logoColor=black"/>](https://www.instagram.com/hhhj2__)&nbsp;
+[<img src="https://img.shields.io/badge/Gmail-BBDED6?style=flat-square&logo=gmail&logoColor=black"/>](mailto:hyejungg.dev@gmail.com)&nbsp;
+<!-- [<img src="https://img.shields.io/badge/Instagram-BBDED6?style=flat-square&logo=Instagram&logoColor=black"/>](https://www.instagram.com/hhhj2__)&nbsp; -->
    
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyejungg&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
