@@ -3,15 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?text=HyeJung&nbsp;&nbsp;&nbsp;&nbsp;Kim&fontSize=100&type=soft&color=FFFFFF&fontColor=000000&animation=fadeIn&fontAlignY=50&desc=I%20want%20to%20be%20a%20backend%20developer.&descAlignY=95&descAlign=72)
 </center>
 
-## **Education**
-**2018 Mar**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sungshin Women's University,&nbsp;&nbsp; Computer Engineering & Curriculum for Teaching Profession
-
 <br>
 
 ## **Projects**
+### Teams
 **2022 Sep**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend development &nbsp;|&nbsp; [Hous- Release](https://github.com/Hous-Release/hous-server),&nbsp;&nbsp; 룸메이트와 함께하는 슬기로운 한집 생활
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;앱 다운로드 바로가기 [AOS](https://play.google.com/store/apps/details?id=hous.release.android), [iOS](https://apps.apple.com/kr/app/hous-/id1659976144) &nbsp;|&nbsp; *v1.0.5*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;앱 다운로드 바로가기 [AOS](https://play.google.com/store/apps/details?id=hous.release.android), [iOS](https://apps.apple.com/kr/app/hous-/id1659976144) &nbsp;|&nbsp; *v1.0.7*
 
 **2022 Jul**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend development &nbsp;|&nbsp; [Hous-](https://github.com/TeamHous/Hous-Server),&nbsp;&nbsp; 룸메이트와 함께하는 슬기로운 한집 생활 (30th SOPT Appjam)
 
@@ -23,13 +21,17 @@
 
 **2020 Jul**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontend development &nbsp;|&nbsp; ['E-oom'](https://github.com/hyejungg/E-oom), 온라인 교육 플랫폼 제작
 
-**2019 Oct**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Android development &nbsp;|&nbsp; [냉장GO](https://github.com/youngjinc/NaengjanGo),&nbsp;&nbsp; 바코드 인식을 통한 냉장고 식자재 관리 어플리케이션
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;성신여자대학교 소프트웨어 경진대회 동상
+### Personal
+**2023 Jun**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FullStack(Vue.js, Exrpess with Typescript) &nbsp;|&nbsp; ['Pdf 챗봇'](https://github.com/hyejungg/langchain-pdf), Langchain 을 이용한 pdf 챗봇 제작
+
 
 <br>
 
 ## **Experience**
+
+**2023 Jan**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; KakaoGames,&nbsp;&nbsp; Web FullStack Developer &nbsp;|&nbsp; **ING**
 
 **2022 Mar**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sopt 30th Server Part &nbsp;|&nbsp; 6 Month
 
@@ -37,7 +39,6 @@
 
 
 <br>
-
 
 ## **Skills**
 <img src="https://img.shields.io/badge/Java-FFB6B9?style=flat-square&logo=java&logoColor=black"/>&nbsp;
@@ -58,9 +59,11 @@
 <img src="https://img.shields.io/badge/Docker-FFB6B9?style=flat-square&logo=Docker&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/GitHub Actions-FFB6B9?style=flat-square&logo=GitHub Actions&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/PM2-FFB6B9?style=flat-square&logo=PM2&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Grafana-FFB6B9?style=flat-square&logo=grafana&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Prometheus-FFB6B9?style=flat-square&logo=prometheus&logoColor=black"/>&nbsp;
+<br>
 <img src="https://img.shields.io/badge/Webpack-FFB6B9?style=flat-square&logo=Webpack&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/Vue.js-FFB6B9?style=flat-square&logo=Vue.js&logoColor=black"/>&nbsp;
-
+<img src="https://img.shields.io/badge/vue.js-FFB6B9?style=flat-square&logo=vuedotjs&logoColor=black"/>&nbsp;
 <br>
 
 ## **Tools**
@@ -73,6 +76,10 @@
 </p>
 
 <br>
+
+## **Education**
+**2018 Mar**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sungshin Women's University,&nbsp;&nbsp; Computer Engineering & Curriculum for Teaching Profession
+
 
 ## **Contact Me**
 [<img src="https://img.shields.io/badge/Naver-BBDED6?style=flat-square&logo=naver&logoColor=black"/>](mailto:kimhyejung12@naver.com)&nbsp;
