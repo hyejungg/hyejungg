@@ -32,11 +32,11 @@
 
 ## **Experience**
 
-**2023 Jan**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; KakaoGames,&nbsp;&nbsp; Web FullStack Developer &nbsp;|&nbsp; **ing**
+**2023 Jan**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KakaoGames,&nbsp;&nbsp; Web FullStack Developer &nbsp;|&nbsp; **ing**
 
-**2022 Mar**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sopt 30th Server Part &nbsp;|&nbsp; 6 Month
+**2022 Mar**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sopt 30th Server Part &nbsp;|&nbsp; 6 Month
 
-**2021 Dec**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AhnLab,&nbsp;&nbsp; Research Innovation Team Intern &nbsp;|&nbsp; 6 Month
+**2021 Dec**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AhnLab,&nbsp;&nbsp; Research Innovation Team Intern &nbsp;|&nbsp; 6 Month
 
 
 <br>
