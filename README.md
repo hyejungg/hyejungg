@@ -48,7 +48,8 @@
 <img src="https://img.shields.io/badge/C++-FFB6B9?style=flat-square&logo=C%2B%2B&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-FFB6B9?style=flat-square&logo=HTML5&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-FFB6B9?style=flat-square&logo=CSS3&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/php-FFB6B9?style=flat-square&logo=php&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/vue.js-FFB6B9?style=flat-square&logo=vuedotjs&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Webpack-FFB6B9?style=flat-square&logo=Webpack&logoColor=black"/>&nbsp;
 <br>
 <img src="https://img.shields.io/badge/Spring Boot-FFB6B9?style=flat-square&logo=Spring Boot&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring MVC-FFB6B9?style=flat-square&logo=Spring&logoColor=black"/>&nbsp;
@@ -60,11 +61,10 @@
 <img src="https://img.shields.io/badge/Docker-FFB6B9?style=flat-square&logo=Docker&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/GitHub Actions-FFB6B9?style=flat-square&logo=GitHub Actions&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/PM2-FFB6B9?style=flat-square&logo=PM2&logoColor=black"/>&nbsp;
+<!--
 <img src="https://img.shields.io/badge/Grafana-FFB6B9?style=flat-square&logo=grafana&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Prometheus-FFB6B9?style=flat-square&logo=prometheus&logoColor=black"/>&nbsp;
-<br>
-<img src="https://img.shields.io/badge/Webpack-FFB6B9?style=flat-square&logo=Webpack&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/vue.js-FFB6B9?style=flat-square&logo=vuedotjs&logoColor=black"/>&nbsp;
+-->
 <br>
 
 ## **Tools**
