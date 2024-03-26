@@ -4,8 +4,6 @@
 <!--![header](https://capsule-render.vercel.app/api?text=HyeJung&nbsp;&nbsp;&nbsp;&nbsp;Kim&fontSize=100&type=soft&color=FFFFFF&fontColor=000000&animation=fadeIn&fontAlignY=50&desc=I%20want%20to%20be%20a%20backend%20developer.&descAlignY=95&descAlign=72)-->
 </center>
 
-<br>
-
 ## **Projects**
 ### Teams
 **2022 Sep**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend development &nbsp;|&nbsp; [Hous- Release](https://github.com/Hous-Release/hous-server),&nbsp;&nbsp; 룸메이트와 함께하는 슬기로운 한집 생활 (ing)
