@@ -44,13 +44,14 @@
 <img src="https://img.shields.io/badge/Java-FFB6B9?style=flat-square&logo=java&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-FFB6B9?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-FFB6B9?style=flat-square&logo=TypeScript&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/C++-FFB6B9?style=flat-square&logo=C%2B%2B&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Python-FFB6B9?style=flat-square&logo=Python&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-FFB6B9?style=flat-square&logo=HTML5&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-FFB6B9?style=flat-square&logo=CSS3&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/vue.js-FFB6B9?style=flat-square&logo=vuedotjs&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/Webpack-FFB6B9?style=flat-square&logo=Webpack&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/nuxt.js-FFB6B9?style=flat-square&logo=nuxtjs&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Webpack-FFB6B9?style=flat-square&logo=Webpack&logoColor=black"/>&nbsp; 
 <br>
-<img src="https://img.shields.io/badge/Spring Boot-FFB6B9?style=flat-square&logo=Spring Boot&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Spring Boot-FFB6B9?style=flat-square&logo=SpringBoot&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring MVC-FFB6B9?style=flat-square&logo=Spring&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Node.js-FFB6B9?style=flat-square&logo=Node.js&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Express-FFB6B9?style=flat-square&logo=express&logoColor=black"/>&nbsp;
@@ -58,7 +59,7 @@
 <img src="https://img.shields.io/badge/Redis-FFB6B9?style=flat-square&logo=redis&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/AWS-FFB6B9?style=flat-square&logo=amazon-aws&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Docker-FFB6B9?style=flat-square&logo=Docker&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/GitHub Actions-FFB6B9?style=flat-square&logo=GitHub Actions&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Github Actions-FFB6B9?style=flat-square&logo=GitHubActions&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/PM2-FFB6B9?style=flat-square&logo=PM2&logoColor=black"/>&nbsp;
 <!--
 <img src="https://img.shields.io/badge/Grafana-FFB6B9?style=flat-square&logo=grafana&logoColor=black"/>&nbsp;
@@ -86,12 +87,10 @@
 [<img src="https://img.shields.io/badge/Gmail-BBDED6?style=flat-square&logo=gmail&logoColor=black"/>](mailto:hyejungg.dev@gmail.com)&nbsp;
 <!-- [<img src="https://img.shields.io/badge/Instagram-BBDED6?style=flat-square&logo=Instagram&logoColor=black"/>](https://www.instagram.com/hhhj2__)&nbsp; -->
    
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyejungg&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/hyejungg"
-  width="600"
-  height="300"
+  width="500"
+  height="250"
 />
 </a>
