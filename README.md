@@ -4,9 +4,21 @@
 <!--![header](https://capsule-render.vercel.app/api?text=HyeJung&nbsp;&nbsp;&nbsp;&nbsp;Kim&fontSize=100&type=soft&color=FFFFFF&fontColor=000000&animation=fadeIn&fontAlignY=50&desc=I%20want%20to%20be%20a%20backend%20developer.&descAlignY=95&descAlign=72)-->
 </center>
 
+## ✨ Try this!
+
+```bash
+npx kim-hyejung
+```
+
+> Show my terminal profile card 🚀
+
+<br />
+
 ## **Projects**
-### Teams
-**2022 Sep**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend development &nbsp;|&nbsp; [Hous- Release](https://github.com/Hous-Release/hous-server),&nbsp;&nbsp; 룸메이트와 함께하는 슬기로운 한집 생활 (ing)
+> For more details, visit my [portfolio site](https://portfolio.hyejungg.me).
+<br />
+ 
+**2022 Sep**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend development &nbsp;|&nbsp; [Hous- Release](https://github.com/Hous-Release/hous-server),&nbsp;&nbsp; 룸메이트와 함께하는 슬기로운 한집 생활
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;앱 다운로드 바로가기 [AOS](https://play.google.com/store/apps/details?id=hous.release.android), [iOS](https://apps.apple.com/kr/app/hous-/id1659976144) &nbsp;|&nbsp; *v1.0.8*
 
@@ -18,25 +30,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;앱 다운로드 바로가기 [AOS](https://play.google.com/store/apps/details?id=com.hyeeyoung.wishboard&pli=1), [iOS](https://apps.apple.com/kr/app/%EC%9C%84%EC%8B%9C%EB%B3%B4%EB%93%9C-wish-board/id6443808936) &nbsp;|&nbsp; *v1.3.2*
 
-**2020 Jul**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frontend development &nbsp;|&nbsp; ['E-oom'](https://github.com/hyejungg/E-oom), 온라인 교육 플랫폼 제작
-
-<br>
-
-### Personal
-**2023 Sep**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Front (Vue.js with JavaScript) &nbsp;|&nbsp; ['URL에 정보를 저장하는 todo list'](https://github.com/hyejungg/vue-todo-urls)
-
-**2023 Jun**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FullStack (Vue.js, Exrpess with TypeScript) &nbsp;|&nbsp; ['Langchain 을 이용한 RAG 기반 챗봇 (GPT3 turbo)'](https://github.com/hyejungg/langchain-pdf)
-
 <br>
 
 ## **Experience**
 
-**2023 Jan**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KakaoGames,&nbsp;&nbsp; Web FullStack Developer &nbsp;|&nbsp; **ing**
+**2023 Jan**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KakaoGames,&nbsp;&nbsp; Software Developer &nbsp;|&nbsp; **ing**
 
 **2022 Mar**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sopt 30th Server Part &nbsp;|&nbsp; 6 Month
 
 **2021 Dec**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AhnLab,&nbsp;&nbsp; Research Innovation Team Intern &nbsp;|&nbsp; 6 Month
-
 
 <br>
 
@@ -64,6 +66,7 @@
 <!--
 <img src="https://img.shields.io/badge/Grafana-C8BEE6?style=flat-square&logo=grafana&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Prometheus-C8BEE6?style=flat-square&logo=prometheus&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Loki-C8BEE6?style=flat-square&logo=loki&logoColor=black"/>&nbsp;
 -->
 <br>
 
@@ -72,21 +75,18 @@
 <img src="https://img.shields.io/badge/GitKraken-8AC6D1?style=flat-square&logo=gitkraken&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Slack-8AC6D1?style=flat-square&logo=slack&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Notion-8AC6D1?style=flat-square&logo=notion&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/Figma-8AC6D1?style=flat-square&logo=figma&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/Photoshop-8AC6D1?style=flat-square&logo=adobephotoshop&logoColor=black"/>&nbsp;
-</p>
+<img src="https://img.shields.io/badge/Claude Code-8AC6D1?style=flat-square&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Codex-8AC6D1?style=flat-square&logoColor=black"/>&nbsp;
 
 <br>
-
-## **Education**
-**2018 Mar**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sungshin Women's University,&nbsp;&nbsp; Computer Engineering & Curriculum for Teaching Profession
-
 
 ## **Contact Me**
 [<img src="https://img.shields.io/badge/Naver-BBDED6?style=flat-square&logo=naver&logoColor=black"/>](mailto:kimhyejung12@naver.com)&nbsp;
 [<img src="https://img.shields.io/badge/Gmail-BBDED6?style=flat-square&logo=gmail&logoColor=black"/>](mailto:hyejungg.dev@gmail.com)&nbsp;
 <!-- [<img src="https://img.shields.io/badge/Instagram-BBDED6?style=flat-square&logo=Instagram&logoColor=black"/>](https://www.instagram.com/hhhj2__)&nbsp; -->
-   
+
+<br />
+
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/hyejungg"
